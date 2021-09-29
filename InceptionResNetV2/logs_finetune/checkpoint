@@ -1,0 +1,2 @@
+model_checkpoint_path: "V1_finetune"
+all_model_checkpoint_paths: "V1_finetune"
